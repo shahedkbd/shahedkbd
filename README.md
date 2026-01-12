@@ -1,3 +1,8 @@
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Md%20Shahedul%20Alam%20Khan&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <!-- ===================== NAME & DESIGNATION ===================== -->
 <h2 align="center">Md Shahedul Alam Khan</h2>
 <h4 align="center">Junior Web Developer | MERN Stack Learner</h4>
