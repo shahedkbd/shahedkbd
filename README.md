@@ -3,11 +3,11 @@
 
 <!-- ===================== NAME & DESIGNATION ===================== -->
 <h2 align="center">Md Shahedul Alam Khan</h2>
-<h4 align="center">Junior Web Developer | MERN Stack Learner</h4>
+<h4 align="center">Full-Stack Web Developer | Building Modern Web Apps with React & Next.js</h4>
 
 ---
 # 💫 About Me:
-I am a passionate Web Developer with hands-on experience in modern web technologies such as HTML, CSS, JavaScript, Tailwind CSS, React, and Next.js. I am currently building projects using the MERN stack, including Express.js and MongoDB, to strengthen my full-stack development skills. I enjoy creating clean, responsive, and user-friendly web applications. I am actively learning, improving every day, and looking for opportunities to grow and contribute to real-world projects.
+I am a passionate Full-Stack Web Developer with hands-on experience in modern web technologies including HTML, CSS, JavaScript, Tailwind CSS, React, and Next.js. I build full-stack applications using the MERN stack, working with Express.js and MongoDB to develop scalable and efficient back-end systems. I focus on creating clean, responsive, and user-friendly web applications while continuously improving my skills through real-world projects. I am eager to grow, take on new challenges, and contribute to impactful development teams.
 
 ---
 
