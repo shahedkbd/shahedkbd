@@ -20,6 +20,10 @@ I am a passionate Full-Stack Web Developer with hands-on experience in modern we
 
 ---
 
+## Resume Link: <a href="https://portfolio-website-mu-flax-48.vercel.app/resume.pdf">Download Resume</a>
+
+---
+
 ## 💻 Tech Stack
 
 ### 🎨 Frontend
