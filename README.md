@@ -1,5 +1,5 @@
 <!-- ===================== BANNER ===================== -->
-<img src="/img/cover.png" alt="Shahed Khan">
+<img width="100%" src="/asset/cover.png" alt="Shahed Khan">
 
 <!-- ===================== NAME & DESIGNATION ===================== -->
 <h2 align="center">Md Shahedul Alam Khan</h2>
